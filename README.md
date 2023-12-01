@@ -30,8 +30,8 @@ Proje, aşağıdaki temel bileşenleri içermektedir:
 
 - **Entities:** Temel nesne sınıflarını içerir. Örneğin, `Member` ve `Book`.
 
-- **LibraryManagementSystem:** Sunum katmanı olarakta değerlendirilebilir. İsterleri test eden ekibin işini kolaylaştırmak için her olasılık ekrana basılmıştır. 
+- **LibraryConsoleApplication:** Sunum katmanı olarakta değerlendirilebilir. İsterleri test eden ekibin işini kolaylaştırmak için her olasılık ekrana basılmıştır. 
 
 ## Kurulum
 
-Proje klonlandıktan sonra, Visual Studio veya başka bir C# geliştirme ortamında açabilir ve derleyebilirsiniz. LibraryManagementSystem klasörü içerisindeki Program.cs dosyasını çalıştırarak çıktıyı görebilirsiniz.
+Proje klonlandıktan sonra, Visual Studio veya başka bir C# geliştirme ortamında açabilir ve derleyebilirsiniz. LibraryConsoleApplicatio klasörü içerisindeki Program.cs dosyasını çalıştırarak çıktıyı görebilirsiniz.
