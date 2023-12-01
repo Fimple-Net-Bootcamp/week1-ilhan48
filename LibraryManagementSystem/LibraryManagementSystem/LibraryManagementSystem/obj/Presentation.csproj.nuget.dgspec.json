@@ -11,7 +11,7 @@
         "projectName": "Business",
         "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\ilhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Business\\obj\\",
+        "outputPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
         "projectName": "DataAccess",
         "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ilhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,7 +187,7 @@
         "projectName": "Presentation",
         "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation.csproj",
         "packagesPath": "C:\\Users\\ilhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

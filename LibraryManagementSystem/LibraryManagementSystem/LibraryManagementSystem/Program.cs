@@ -6,7 +6,7 @@ using DataAccess.Concrete;
 using Entities.Concrete;
 using Microsoft.Extensions.DependencyInjection;
 
-public class Program
+public partial class Program
 {
 
 
@@ -38,7 +38,8 @@ public class Program
         var result = memberService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Firstname    :  {result[i].FirstName}  Surname     :  {result[i].LastName}  Member Number:     {result[i].MemberNum} ");
+            var printableMember = new PrintableMember(result[i].Id, result[i].FirstName, result[i].LastName, result[i].MemberNum);
+            printableMember.Print();
         }
 
         Console.WriteLine("\n     **** Adding member  ****");
@@ -48,7 +49,8 @@ public class Program
         result = memberService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Firstname    :  {result[i].FirstName}  Surname     :  {result[i].LastName}  Member Number:     {result[i].MemberNum} ");
+            var printableMember = new PrintableMember(result[i].Id, result[i].FirstName, result[i].LastName, result[i].MemberNum);
+            printableMember.Print();
         }
         Console.WriteLine("\n     **** Updating member  ****");
         memberService.Update(member2);
@@ -57,7 +59,8 @@ public class Program
         result = memberService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Firstname    :  {result[i].FirstName}  Surname     :  {result[i].LastName}  Member Number:     {result[i].MemberNum} ");
+            var printableMember = new PrintableMember(result[i].Id, result[i].FirstName, result[i].LastName, result[i].MemberNum);
+            printableMember.Print();
         }
         Console.WriteLine("\n     **** Deleting member  ****");
         memberService.Delete(3);
@@ -66,7 +69,8 @@ public class Program
         result = memberService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Firstname    :  {result[i].FirstName}  Surname     :  {result[i].LastName}  Member Number:     {result[i].MemberNum} ");
+            var printableMember = new PrintableMember(result[i].Id, result[i].FirstName, result[i].LastName, result[i].MemberNum);
+            printableMember.Print();
         }
         Console.WriteLine("\n\n\n\n                 Books Tests ****");
 
@@ -74,7 +78,8 @@ public class Program
         var resultBook = bookService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Book Name    :  {resultBook[i].Name}  Author     :  {resultBook[i].Author}  Page Size:     {resultBook[i].PageSize} ");
+            var printableBook = new PrintableBook(resultBook[i].Id, resultBook[i].Name, resultBook[i].Author, resultBook[i].PageSize, resultBook[i].YearOfPublication);
+            printableBook.Print();
         }
         Console.WriteLine("\n     **** Adding book  ****");
         bookService.Add(book1);
@@ -83,7 +88,8 @@ public class Program
         resultBook = bookService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Book Name    :  {resultBook[i].Name}  Author     :  {resultBook[i].Author}  Page Size:     {resultBook[i].PageSize} ");
+            var printableBook = new PrintableBook(resultBook[i].Id, resultBook[i].Name, resultBook[i].Author, resultBook[i].PageSize, resultBook[i].YearOfPublication);
+            printableBook.Print();
         }
         Console.WriteLine("\n     **** Deleted book  ****");
         bookService.Delete(3);
@@ -92,7 +98,8 @@ public class Program
         resultBook = bookService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Book Name    :  {resultBook[i].Name}  Author     :  {resultBook[i].Author}  Page Size:     {resultBook[i].PageSize} ");
+            var printableBook = new PrintableBook(resultBook[i].Id, resultBook[i].Name, resultBook[i].Author, resultBook[i].PageSize, resultBook[i].YearOfPublication);
+            printableBook.Print();
         }
         Console.WriteLine("\n     **** Updated book  ****");
         bookService.Update(book2);
@@ -101,7 +108,8 @@ public class Program
         resultBook = bookService.GetAll();
         for (int i = 0; i < result.Count; i++)
         {
-            Console.WriteLine($"    Book Name    :  {resultBook[i].Name}  Author     :  {resultBook[i].Author}  Page Size:     {resultBook[i].PageSize} ");
+            var printableBook = new PrintableBook(resultBook[i].Id, resultBook[i].Name, resultBook[i].Author, resultBook[i].PageSize, resultBook[i].YearOfPublication);
+            printableBook.Print();
         }
 
         Console.WriteLine("\n     **** Barrow book  ****");
