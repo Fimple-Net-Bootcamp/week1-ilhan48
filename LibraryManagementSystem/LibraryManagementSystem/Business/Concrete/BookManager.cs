@@ -11,7 +11,7 @@ namespace Business.Concrete
 {
     public class BookManager : IBookService
     {
-        IinMemoryBookDal _inMemoryBookDal;
+        private readonly IinMemoryBookDal _inMemoryBookDal;
 
         public BookManager(IinMemoryBookDal inMemoryBookDal) {
             _inMemoryBookDal = inMemoryBookDal;

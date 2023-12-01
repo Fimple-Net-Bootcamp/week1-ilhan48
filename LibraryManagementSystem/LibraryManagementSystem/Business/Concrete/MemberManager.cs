@@ -11,7 +11,7 @@ namespace Business.Concrete
 {
     public class MemberManager : IMemberService
     {
-        IinMemoryMemberDal _memberDal;
+        private readonly IinMemoryMemberDal _memberDal;
 
         public MemberManager(IinMemoryMemberDal inMemoryMember)
         {

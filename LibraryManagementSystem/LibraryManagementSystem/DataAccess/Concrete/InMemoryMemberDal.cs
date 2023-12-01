@@ -13,7 +13,7 @@ namespace DataAccess.Concrete
             {
                 new Member(1, "Ilhan", "Odun", 1),
                 new Member(2, "Hasan", "Odun", 2),
-                new Member(3, "Isa", "Odun", 3)
+                new Member(3, "Nihat", "Odun", 3)
             };
         }
 

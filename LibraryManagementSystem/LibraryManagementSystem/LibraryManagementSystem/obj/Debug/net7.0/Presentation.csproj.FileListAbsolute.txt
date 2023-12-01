@@ -10,3 +10,11 @@ C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManag
 C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\refint\Presentation.dll
 C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.pdb
 C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\ref\Presentation.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Business.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Entities.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Business.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Entities.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.csproj.CopyComplete

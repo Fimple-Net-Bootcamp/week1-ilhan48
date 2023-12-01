@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zjPr3OqDd2K+jx5BRpkDyr0XYw4BQP0dmd2PYuFaYiTxjSdARF4SK4Sn5WlNT8DZ948WY1IuZCAYIXq1rKDvbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryConsoleApplication\\LibraryConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilhan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ilhan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

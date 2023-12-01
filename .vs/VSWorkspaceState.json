@@ -3,10 +3,10 @@
     "",
     "\\LibraryManagementSystem",
     "\\LibraryManagementSystem\\LibraryManagementSystem",
-    "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities",
-    "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Concrete",
+    "\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryConsoleApp",
+    "\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryConsoleApplication",
     "\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem"
   ],
-  "SelectedNode": "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Concrete\\Literature.cs",
+  "SelectedNode": "\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.sln",
   "PreviewInSolutionExplorer": false
 }

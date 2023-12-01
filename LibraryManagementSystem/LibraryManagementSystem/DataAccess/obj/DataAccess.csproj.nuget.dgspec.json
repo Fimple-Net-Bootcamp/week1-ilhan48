@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ilhan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj"
+              "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj"
               }
             }
           }
@@ -63,12 +63,12 @@
         }
       }
     },
-    "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj": {
+    "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ilhan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qhCkID7gxCdkxhD4tgZKm6jQFw3x/F4ZRxkvcwKYlesBSMMhJ3Vh1b8oF9642PG5tnDgE+YF7wAfVIlijm/cWg==",
+  "dgSpecHash": "CbmFli955r1dTufixSvytKCwuEsKujmASQtVfiadmtczPxiVcEZ1yyMahzQyKaLmf2N1Pe7sUpByMXoemkrSbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

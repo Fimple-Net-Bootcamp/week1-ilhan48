@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMTNCrWKVySa5a6VW61ae5yx9LgjgvhqFebBwGYC9HkMK0GP0wl5fHu2JRyJbAOzmBZvHMOZNqtwaEv6lc6OyA==",
+  "dgSpecHash": "/V5DXhcFxa3ciuH/MlbzoDLAWAbYcbuDu1On+zaF1ubDh8rHHbQvABLjSyEwQbN3keFY1qfHubNLJ8isVBZAEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan\\Source\\Repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\ilhan\\source\\repos\\IlhanOdun-week1\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
