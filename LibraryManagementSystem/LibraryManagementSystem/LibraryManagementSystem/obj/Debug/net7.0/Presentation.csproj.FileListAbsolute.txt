@@ -1,0 +1,12 @@
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Presentation.deps.json
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Presentation.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\Presentation.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.sourcelink.json
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\refint\Presentation.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\Presentation.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\ref\Presentation.dll

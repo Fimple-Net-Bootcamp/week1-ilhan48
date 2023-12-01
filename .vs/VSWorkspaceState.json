@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryManagementSystem",
+    "\\LibraryManagementSystem\\LibraryManagementSystem",
+    "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities",
+    "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Concrete",
+    "\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem"
+  ],
+  "SelectedNode": "\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Concrete\\Literature.cs",
+  "PreviewInSolutionExplorer": false
+}

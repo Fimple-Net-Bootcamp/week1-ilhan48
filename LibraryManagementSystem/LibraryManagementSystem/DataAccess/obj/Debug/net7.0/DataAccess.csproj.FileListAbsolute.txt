@@ -1,0 +1,16 @@
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.sourcelink.json
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\ilhan\Source\Repos\IlhanOdun-week1\LibraryManagementSystem\LibraryManagementSystem\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
